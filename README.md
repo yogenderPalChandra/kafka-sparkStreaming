@@ -7,7 +7,7 @@ Local installation of Spark and Kafka
 git clone https://github.com/yogenderPalChandra/kafka-sparkStreaming.git
 ```
 
-You will be moving across many many terminals, depending upon where your kafka installation was done! Or you can set up environment variables for $SPARK_HOME
+You will be moving across many terminals, depending upon where your kafka installation was done! Or you can set up environment variables for $SPARK_HOME
 and $KAFKA_HOME, and update ~/.profile (or ~/.bashrc, for that matter) and run the scripts from anywhere
 
 1. Read data from csv file:
