@@ -1,5 +1,5 @@
-# Getting Started with Spark Structured Streaming and Kafka
-This repo locally sets up kafka clusters, read local csv files into topic. Performs batch queries, streaming queries, and incremental queries.
+# Spark Structured Streaming with Kafka
+This repo locally sets up kafka clusters, read local csv files into topic. Performs batch queries, streaming queries, and inserts more data into topic from differnet csv source.
 
 Requirements: 
 Local installation of Spark and Kafka
