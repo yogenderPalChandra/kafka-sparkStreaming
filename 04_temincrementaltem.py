@@ -1,7 +1,4 @@
-# Purpose: Batch write incremental sales data from S3 to a new Kafka topic
-#          Use a delay between each message to simulate real-time streaming data
-# Author:  Gary A. Stafford
-# Date: 2021-09-04
+
 
 import os
 import time
